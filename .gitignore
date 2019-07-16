@@ -64,3 +64,4 @@ typings/
 .vscode/
 
 .eslintrc.js
+/data/auto.business
