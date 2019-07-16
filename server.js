@@ -1,5 +1,4 @@
 const express = require("express");
-const db = require("./data/dbConfig");
 const carsRouter = require("./routes/cars");
 
 const server = express();
