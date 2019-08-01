@@ -62,3 +62,6 @@ typings/
 
 # VSCode settings
 .vscode/
+
+.eslintrc.js
+/data/auto.business
